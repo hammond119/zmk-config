@@ -13,7 +13,7 @@
 #
 
 board: [ "nice_nano_v2","mikoto"]
-shield: [ "corne_left", "corne_right","charybdis_left","charybdis_right","sofle-plus_left","sofle-plus_right"]
+shield: [ "sofle-plus_left","sofle-plus_right","corne_left", "corne_right","charybdis_left","charybdis_right"]
 
 include:
   - board: sofle-plus_left
